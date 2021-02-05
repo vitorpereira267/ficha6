@@ -1,0 +1,2 @@
+justify-content: flex-end; meter o elemento no fim da página
+justify-content: center; centrar os dois elementos no meio da página

@@ -1,0 +1,268 @@
+3.1
+<div class="d-flex
+                justify-content-flex end
+                align-items-start" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.2
+<div class="d-flex
+                justify-content-center end
+                align-items-start" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.3
+<div class="d-flex
+                justify-content-around
+                align-items-start" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.4
+<div class="d-flex
+                justify-content-between
+                align-items-start" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.5
+<div class="d-flex
+                align-items-end" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.6
+<div class="d-flex
+                justify-content-center
+                align-items-center" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.7
+<div class="d-flex
+                justify-content-around
+                align-items-center" style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.8
+<div class="d-flex
+                justify-content
+                flex-row-reverse
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.9
+<div class="d-flex
+                justify-content
+                flex-column
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.10
+<div class="d-flex
+                justify-content-end
+                flex-row-reverse
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.11
+<div class="d-flex
+                justify-content-end
+                flex-column
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.12
+<div class="d-flex
+                justify-content-around
+                flex-column-reverse
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.13
+<div class="d-flex
+                justify-content-center
+                flex-row-reverse
+                align-items-end
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+3.14
+<div class="d-flex
+                
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+    </div>
+4.1
+<div class="d-flex
+                
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger" style="order:-1"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                
+    </div>
+4.2
+<div class="d-flex
+                
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning align-self-end"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                
+    </div>
+4.3
+<div class="d-flex
+                flex-row
+                align-items-start
+                " style="height: 100vh">
+                <div class="p-3 m-1 bg-warning align-self-end"style="order:3"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning align-self-end" style="order:3"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                
+    </div>
+4.4
+    <div class="d-flex
+                flex-wrap
+                align-items-start
+                align-self-end
+                " style="height: 200px; width: 200px;">
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                
+    </div>
+4.5
+<div class="d-flex
+                flex-column
+                flex-wrap
+                align-items-start
+                " style="height: 200px; width: 200px;">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                
+    </div>
+4.6
+<div class="d-flex
+                flex-wrap
+                align-items-start
+                align-content-start
+                " style="height: 200px; width: 200px;">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                
+    </div>
+4.7
+<div class="d-flex
+                flex-wrap
+                align-items-start
+                align-content-end
+                " style="height: 200px; width: 200px;">
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                
+    </div>
+4.8
+<div class="d-flex
+                flex-wrap
+                align-content-end
+                flex-column-reverse
+                align-items-start
+                " style="height: 200px; width: 200px;">
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>
+                <div class="p-3 m-1 bg-danger"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-success"></div>
+                <div class="p-3 m-1 bg-warning"></div>               
+    </div>
+4.9
